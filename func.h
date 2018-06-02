@@ -1,7 +1,7 @@
 #ifndef FUNC_H_
 #define FUNC_H_
 
-int sum(int, int);
-int mult(int, int);
+extern int sum(int, int);
+extern int mult(int, int);
 
 #endif /* FUNC_H_ */

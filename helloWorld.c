@@ -7,5 +7,9 @@ int main(void)
   
   c = sum(1,2);
   printf("Hello World: %d", c);
+  
+  d = mult(1,2);
+  printf("Hello World: %d", d);
+  
   return 0;
 }

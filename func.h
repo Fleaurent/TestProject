@@ -5,5 +5,6 @@
 
 extern int sum(int, int);
 extern int mult(int, int);
+extern int j;
 
 #endif /* FUNC_H_ */

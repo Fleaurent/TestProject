@@ -5,6 +5,8 @@ int main(void)
 {
   int c;
   
+  printf("Hello World:\n");
+  
   c = sum(1,2);
   printf("Summe: %d", c);
   

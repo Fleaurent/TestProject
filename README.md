@@ -1,3 +1,3 @@
 # TestProject
 Absolute Beginner
-Branching
+Branching is fun

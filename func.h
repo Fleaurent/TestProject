@@ -3,6 +3,7 @@
 
 #define DEBUG 3
 
+extern int i;
 extern int sum(int, int);
 extern int mult(int, int);
 extern int j;

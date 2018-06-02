@@ -3,7 +3,12 @@
 
 int main(void)
 {
-  int c;
+  int c, d, i;
+  
+  for(i=0;i<10;i++)
+  {
+   printf("%d\t",i); 
+  }
   
   printf("Hello World:\n");
   
@@ -12,6 +17,8 @@ int main(void)
   
   d = mult(1,2);
   printf("Multipikation: %d", d);
+  
+  
   
   return 0;
 }

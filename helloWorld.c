@@ -6,10 +6,10 @@ int main(void)
   int c;
   
   c = sum(1,2);
-  printf("Hello World: %d", c);
+  printf("Summe: %d", c);
   
   d = mult(1,2);
-  printf("Hello World: %d", d);
+  printf("Multipikation: %d", d);
   
   return 0;
 }

@@ -1,7 +1,7 @@
 #ifndef FUNC_H_
 #define FUNC_H_
 
-#define DEBUG 0
+#define DEBUG 2
 
 extern int sum(int, int);
 extern int mult(int, int);

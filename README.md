@@ -8,11 +8,8 @@
 ## Project Structure
 
 ├── func.c  
-│  
 ├── func.h  
-│  
 ├── helloWorld.c  
-│  
 └── README.md  
   
 ## Release Notes  
